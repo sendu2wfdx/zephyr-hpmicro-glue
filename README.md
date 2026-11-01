@@ -23,6 +23,12 @@
 
 ---
 
+> This is the `sendu2wfdx` maintained HPMicro Zephyr integration, based on
+> [`hpmicro/zephyr_sdk_glue`](https://github.com/hpmicro/zephyr_sdk_glue).
+> The `stable-3.7` branch provides the stable base for the EmbedFire HPM6750
+> board. See [MAINTENANCE.md](MAINTENANCE.md) for versioning, upstream sync,
+> and driver ownership.
+
 ## 📖 Overview
 
 **Zephyr SDK Glue** is a manifest repository developed by HPMicro based on the Zephyr project. This repository contains all source program files adapted by HPMicro for its own MCUs in the Zephyr project. Together with HPMicro's official software development kit (SDK), it forms the HPMicro chip development suite for the Zephyr project.

@@ -23,6 +23,11 @@
 
 ---
 
+> 本仓库是 `sendu2wfdx` 维护的 HPMicro Zephyr 适配分支，以上游
+> [`hpmicro/zephyr_sdk_glue`](https://github.com/hpmicro/zephyr_sdk_glue)
+> 为基础。`stable-3.7` 分支用于野火 HPM6750 开发板的稳定支持；上游同步、
+> 版本升级和新增驱动的维护规则见 [MAINTENANCE.md](MAINTENANCE.md)。
+
 ## 📖 概述
 
 **Zephyr SDK Glue** 是 HPMicro 基于 Zephyr 工程编写的清单仓库。在本仓库中包含 HPMicro 为自身 MCU 适配 Zephyr 工程的所有源程序文件，其与 HPMicro 官方软件开发包共同组成 Zephyr 工程的 HPMicro 芯片开发套件。
