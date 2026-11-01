@@ -10,6 +10,7 @@
 #include <zephyr/drivers/adc.h>
 #include <hpm_adc12_drv.h>
 #include <hpm_clock_drv.h>
+#include <hpm_misc.h>
 #include <hpm_trgm_drv.h>
 #include <zephyr/drivers/pinctrl.h>
 
